@@ -80,4 +80,3 @@ C:\Users\Skylar\source\repos\NeighborlyHands\NeighborlyHands\obj\Debug\Neighborl
 C:\Users\Skylar\source\repos\NeighborlyHands\NeighborlyHands\obj\Debug\NeighborlyHands.csproj.CopyComplete
 C:\Users\Skylar\source\repos\NeighborlyHands\NeighborlyHands\obj\Debug\NeighborlyHands.dll
 C:\Users\Skylar\source\repos\NeighborlyHands\NeighborlyHands\obj\Debug\NeighborlyHands.pdb
-C:\Users\Skylar\source\repos\NeighborlyHands\NeighborlyHands\obj\Debug\NeighborlyHands.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Skylar\source\repos\NeighborlyHands\.vs\NeighborlyHands\v16\lut\0\b\NeighborlyHands.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Skylar\source\repos\NeighborlyHands\.vs\NeighborlyHands\v16\lut\0\b\NeighborlyHands.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Skylar\source\repos\NeighborlyHands\.vs\NeighborlyHands\v16\lut\0\b\NeighborlyHands.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Skylar\source\repos\NeighborlyHands\.vs\NeighborlyHands\v16\lut\0\b\NeighborlyHands.Test\bin\Debug\NeighborlyHands.Test.dll
+C:\Users\Skylar\source\repos\NeighborlyHands\.vs\NeighborlyHands\v16\lut\0\i\NeighborlyHands.Test\Debug\NeighborlyHands.Test.csprojAssemblyReference.cache
+C:\Users\Skylar\source\repos\NeighborlyHands\.vs\NeighborlyHands\v16\lut\0\i\NeighborlyHands.Test\Debug\NeighborlyHands.Test.csproj.CoreCompileInputs.cache
+C:\Users\Skylar\source\repos\NeighborlyHands\.vs\NeighborlyHands\v16\lut\0\i\NeighborlyHands.Test\Debug\NeighborlyHands.Test.csproj.CopyComplete
+C:\Users\Skylar\source\repos\NeighborlyHands\.vs\NeighborlyHands\v16\lut\0\i\NeighborlyHands.Test\Debug\NeighborlyHands.Test.dll
+C:\Users\Skylar\source\repos\NeighborlyHands\.vs\NeighborlyHands\v16\lut\0\b\NeighborlyHands.Test\bin\Debug\NeighborlyHands.Test.dll.config
