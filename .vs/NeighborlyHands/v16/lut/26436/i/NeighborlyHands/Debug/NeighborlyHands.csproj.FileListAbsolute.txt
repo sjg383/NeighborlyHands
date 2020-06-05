@@ -1,5 +1,0 @@
-C:\Users\Skylar\source\repos\NeighborlyHands\.vs\NeighborlyHands\v16\lut\0\b\NeighborlyHands\bin\NeighborlyHands.dll.config
-C:\Users\Skylar\source\repos\NeighborlyHands\.vs\NeighborlyHands\v16\lut\0\b\NeighborlyHands\bin\NeighborlyHands.dll
-C:\Users\Skylar\source\repos\NeighborlyHands\.vs\NeighborlyHands\v16\lut\0\i\NeighborlyHands\Debug\NeighborlyHands.csproj.CoreCompileInputs.cache
-C:\Users\Skylar\source\repos\NeighborlyHands\.vs\NeighborlyHands\v16\lut\0\i\NeighborlyHands\Debug\NeighborlyHands.csproj.CopyComplete
-C:\Users\Skylar\source\repos\NeighborlyHands\.vs\NeighborlyHands\v16\lut\0\i\NeighborlyHands\Debug\NeighborlyHands.dll
