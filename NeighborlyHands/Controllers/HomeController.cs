@@ -23,6 +23,43 @@ namespace NeighborlyHands.Controllers
             return View();
         }
 
+        // GET: Home/Login
+        //https://www.c-sharpcorner.com/article/simple-login-application-using-Asp-Net-mvc/
+        public ActionResult Login(User user)
+        {
+            if (ModelState.IsValid)
+            {
+                var obj = _db.Users.Where(a => a.Username.Equals(user.Username) && a.Password.Equals(user.Password)).FirstOrDefault();
+                if (obj != null)
+                {
+                    Session["Username"] = obj.Username.ToString();
+                    Session["Password"] = obj.Password.ToString();
+                    return RedirectToAction("UserDashboard");
+                }
+            }
+            return View(user);
+        }
+
+        public ActionResult Logout()
+        {
+            Session["Username"] = null;
+            Session["Password"] = null;
+            Session.Abandon();
+            return RedirectToAction("Index", "Home");
+        }
+
+        public ActionResult UserDashboard()
+        {
+            if (Session["Username"] != null)
+            {
+                return View();
+            }
+            else
+            {
+                return RedirectToAction("Login");
+            }
+        }
+
         // GET: Home/Create
         public ActionResult Create()
         {
